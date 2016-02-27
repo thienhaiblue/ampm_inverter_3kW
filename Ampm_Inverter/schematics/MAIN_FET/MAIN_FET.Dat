@@ -1,0 +1,38 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~MAIN_FET.PrjPCB|ReportField=ProjectFullPath~G:\@hai\DU AN\A chuong\Inverter\schematics\MAIN_FET\MAIN_FET.PrjPCB|ReportField=Title~Bill of Materials For Project [MAIN_FET.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~160|ReportField=ReportTime~12:10:34 AM|ReportField=ReportDate~8/6/2011|ReportField=ReportDateTime~8/6/2011 12:10:34 AM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~8/6/2011|ReportField=CurrentTime~12:10:20 AM|ReportField=Date~|ReportField=DocumentFullPathAndName~G:\@hai\DU AN\A chuong\Inverter\schematics\MAIN_FET\sche\overview.SchDoc|ReportField=DocumentName~overview.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~8/5/2011|ReportField=Organization~|ReportField=ProjectName~MAIN_FET.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~MAIN_FET.PrjPCB|ReportField=DataSourceFullPath~G:\@hai\DU AN\A chuong\Inverter\schematics\MAIN_FET\MAIN_FET.PrjPCB
+3300uF-100V||C1, C2, C7, C8|3300uF_NEW|CAP|4
+CX4|Capacitor Type 0805 SMD|C01, C02, C03, C3, C14, C15, C16, C22, C24, C25, C26, C27, C28, C29, C30, C31, C32, C33, C34, C35, C36, C37, C38, C41, C42, C43, C44, C45, C48, C50, C52, C54, C55, C56, C57, C61|C0805|Cap|36
+cap SMD|Capacitor Type 0805 SMD|C4, C9, C12, C13, C21|C0805|Cap|5
+10uF||C5, C6, C10, C11, C40, C49, C51, C53, C_BOOT02, C_BOOT2|CAP_10uF_SMD|C, C_Dup1, CAP|10
+CAP SMD1206|Capacitor|C17, C18, C23, C58, C59, C60|CAP_10uF_SMD|Cap2|6
+polypropylen|Capacitor polypropylen|C19, C20|2.2UF-1000V_NEW|Cap Semi|2
+CAP SMD1206|Capacitor|C39, C46, C47|Tu470|Cap2|3
+10u||C_BOOT01, C_BOOT1|CAP_10uF_SMD|C_Dup1|2
+FR107||D1, D2|DIODE5819_V1|1N4148|2
+1N5819||D3, D4, D5|DIODE5819_V1|1N4148|3
+4148||DG1, DG2, DG3, DG4|4148_SMD|DIODE, DIODE_0|4
+UF4007||D_BOOT1, D_BOOT2|DIODE5819_V1|DIODE|2
+HOLE1|HOLE|HOLE1, HOLE2, HOLE3, HOLE4, HOLE5|HOLE|Plug|5
+LPC175x||HT1|PCBComponent_1 - duplicate|LPC175x|1
+Socket|Socket|J1|DAY_50A|Socket|1
+J1|Socket|J2, J3, J4|DAY_50A|Socket|3
+Inductor|Inductor Type 1206 SMD|L1, L2, L3, L4, L5, L6, L7|L_1uH|Inductor|7
+7812||LM1|TO220AB|Component_1|1
+SPEAKER||LS1|BUZZ|SPEAKER|1
+IRFP4468PBF-ND||M1, M2, M3, M4|TO247AB|IRF540_Dup1|4
+IRF640||M5|TO220AB|IRF540_Dup1|1
+Header 2|Header, 2-Pin|P2, P3, P4|CONECTOR_2PIN|Header 2|3
+LM35 -Temperature Sensors|Header, 3-Pin|P5|CONECTOR_3PIN|Header 3|1
+Header 3|Header, 3-Pin|P6|CONECTOR_3PIN|Header 3|1
+Header 8|Header, 8-Pin|P7|HDR1X8|Header 8|1
+JUMPER|Header, 2-Pin|PC1|CONECTOR_2PIN|Header 2|1
+Resistor SMD0805|Resistor SMD0805|R1, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R20, R21, R22, R23, R25, R26, R27, R28, R29, R30, R31, R32, R33, R34, R35, R36, R37, R38, R39, R40, R41, R42, R44|R0805|Res1|39
+Shun||R2|RES_SHUN|Shun|1
+120||R43|R0805|R|1
+EE25||T1|TRANSFORMER|TRAN_FBP1S4/SM_5|1
+IR2110||U1, U3|74HC14|IR2110, IR2110_2|2
+LM358||U2|SOIC_8PIN|LM2904/ON|1
+74HCT245||U4|74HCT245D_STO163|74HCT245|1
+KA3842||U5|SOIC_8PIN|KA3842_1|1
+SN75176A||U6|SOIC_8PIN|SN75176A_0|1
+LM1117S33||U7|LM1117|LM117_0|1
+12MHZ|Thach anh 12MHZ|X1|CRYSTAL_12Mhz|QZS10MEG_0|1

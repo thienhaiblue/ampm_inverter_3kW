@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: G:\@hai\DU AN\A chuong\Inverter\schematics\MAIN_FET\PCB\PCB_PRO_OK_08-08-2011.PcbDoc
+RuleKind=Clearance|RuleName=YEN_CONTROL_1|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=YEN_POWER_3|Scope=Board|Minimum=78.74
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=8.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00

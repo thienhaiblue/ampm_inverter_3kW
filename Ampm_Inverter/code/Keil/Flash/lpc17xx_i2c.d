@@ -1,0 +1,10 @@
+.\Flash\lpc17xx_i2c.o: ..\Drivers\source\lpc17xx_i2c.c
+.\Flash\lpc17xx_i2c.o: ..\Drivers\include\lpc17xx_i2c.h
+.\Flash\lpc17xx_i2c.o: ..\Core\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h
+.\Flash\lpc17xx_i2c.o: ..\Core\CM3\CoreSupport\core_cm3.h
+.\Flash\lpc17xx_i2c.o: C:\Keil\ARM\RV31\INC\stdint.h
+.\Flash\lpc17xx_i2c.o: ..\Core\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h
+.\Flash\lpc17xx_i2c.o: ..\Drivers\include\lpc_types.h
+.\Flash\lpc17xx_i2c.o: ..\Drivers\include\lpc17xx_clkpwr.h
+.\Flash\lpc17xx_i2c.o: ..\Drivers\include\lpc17xx_pinsel.h
+.\Flash\lpc17xx_i2c.o: ..\inc\lpc17xx_libcfg.h

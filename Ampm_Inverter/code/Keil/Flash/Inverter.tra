@@ -1,0 +1,54 @@
+*** Creating Trace Output File '.\Flash\Inverter.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\flash\startup_lpc17xx.o"'
+### List of Objects: adding '".\flash\core_cm3.o"'
+### List of Objects: adding '".\flash\system_lpc17xx.o"'
+### List of Objects: adding '".\flash\main.o"'
+### List of Objects: adding '".\flash\delay.o"'
+### List of Objects: adding '".\flash\application.o"'
+### List of Objects: adding '".\flash\table_sin.o"'
+### List of Objects: adding '".\flash\sensor.o"'
+### List of Objects: adding '".\flash\power.o"'
+### List of Objects: adding '".\flash\filter.o"'
+### List of Objects: adding '".\flash\tone.o"'
+### List of Objects: adding '".\flash\debug_frmwrk.o"'
+### List of Objects: adding '".\flash\lpc17xx_adc.o"'
+### List of Objects: adding '".\flash\lpc17xx_can.o"'
+### List of Objects: adding '".\flash\lpc17xx_clkpwr.o"'
+### List of Objects: adding '".\flash\lpc17xx_dac.o"'
+### List of Objects: adding '".\flash\lpc17xx_emac.o"'
+### List of Objects: adding '".\flash\lpc17xx_exti.o"'
+### List of Objects: adding '".\flash\lpc17xx_gpdma.o"'
+### List of Objects: adding '".\flash\lpc17xx_gpio.o"'
+### List of Objects: adding '".\flash\lpc17xx_i2c.o"'
+### List of Objects: adding '".\flash\lpc17xx_i2s.o"'
+### List of Objects: adding '".\flash\lpc17xx_libcfg_default.o"'
+### List of Objects: adding '".\flash\lpc17xx_mcpwm.o"'
+### List of Objects: adding '".\flash\lpc17xx_nvic.o"'
+### List of Objects: adding '".\flash\lpc17xx_pinsel.o"'
+### List of Objects: adding '".\flash\lpc17xx_pwm.o"'
+### List of Objects: adding '".\flash\lpc17xx_qei.o"'
+### List of Objects: adding '".\flash\lpc17xx_rit.o"'
+### List of Objects: adding '".\flash\lpc17xx_rtc.o"'
+### List of Objects: adding '".\flash\lpc17xx_spi.o"'
+### List of Objects: adding '".\flash\lpc17xx_ssp.o"'
+### List of Objects: adding '".\flash\lpc17xx_systick.o"'
+### List of Objects: adding '".\flash\lpc17xx_timer.o"'
+### List of Objects: adding '".\flash\lpc17xx_uart.o"'
+### List of Objects: adding '".\flash\lpc17xx_wdt.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\flash\startup_lpc17xx.o" ".\flash\core_cm3.o" ".\flash\system_lpc17xx.o" ".\flash\main.o" ".\flash\delay.o" ".\flash\application.o" ".\flash\table_sin.o" ".\flash\sensor.o" ".\flash\power.o" ".\flash\filter.o" ".\flash\tone.o" ".\flash\debug_frmwrk.o" ".\flash\lpc17xx_adc.o" ".\flash\lpc17xx_can.o" ".\flash\lpc17xx_clkpwr.o" ".\flash\lpc17xx_dac.o" ".\flash\lpc17xx_emac.o" ".\flash\lpc17xx_exti.o" ".\flash\lpc17xx_gpdma.o" ".\flash\lpc17xx_gpio.o" ".\flash\lpc17xx_i2c.o" ".\flash\lpc17xx_i2s.o" ".\flash\lpc17xx_libcfg_default.o" ".\flash\lpc17xx_mcpwm.o" ".\flash\lpc17xx_nvic.o" ".\flash\lpc17xx_pinsel.o" ".\flash\lpc17xx_pwm.o" ".\flash\lpc17xx_qei.o" ".\flash\lpc17xx_rit.o" ".\flash\lpc17xx_rtc.o" ".\flash\lpc17xx_spi.o" ".\flash\lpc17xx_ssp.o" ".\flash\lpc17xx_systick.o" ".\flash\lpc17xx_timer.o" ".\flash\lpc17xx_uart.o" ".\flash\lpc17xx_wdt.o" --library_type=microlib --strict --scatter ".\Flash\Inverter.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Flash\Inverter.map" -o ".\Flash\Inverter.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\Flash\Inverter.axf'
+### ADS-LD Command File: '.\Flash\Inverter.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\Flash\Inverter.lnp', Handle=0x000002E0
+### Writing '.lnp' file
+### ADS-LD Command file '.\Flash\Inverter.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

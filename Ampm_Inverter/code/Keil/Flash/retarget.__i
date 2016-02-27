@@ -1,0 +1,1 @@
+-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I..\inc -I..\Drivers\include -I..\Core\CM3\CoreSupport -I..\Core\CM3\DeviceSupport\NXP\LPC17xx -I "F:\Keil\ARM\CMSIS\Include" -I "F:\Keil\ARM\INC\NXP\LPC17xx" -D__BUILD_WITH_EXAMPLE__ -DRUN_OK -o ".\Flash\retarget.o" --omf_browse ".\Flash\retarget.crf" --depend ".\Flash\retarget.d" "..\src\Retarget.c"

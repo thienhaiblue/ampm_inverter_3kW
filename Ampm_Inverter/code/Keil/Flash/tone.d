@@ -1,0 +1,12 @@
+.\Flash\tone.o: ..\src\tone.c
+.\Flash\tone.o: ..\Core\CM3\DeviceSupport\NXP\LPC17xx\lpc17xx.h
+.\Flash\tone.o: ..\Core\CM3\CoreSupport\core_cm3.h
+.\Flash\tone.o: C:\Keil\ARM\RV31\INC\stdint.h
+.\Flash\tone.o: ..\Core\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h
+.\Flash\tone.o: ..\Drivers\include\lpc17xx_pwm.h
+.\Flash\tone.o: ..\Drivers\include\lpc_types.h
+.\Flash\tone.o: ..\inc\tone.h
+.\Flash\tone.o: ..\Drivers\include\lpc17xx_pinsel.h
+.\Flash\tone.o: ..\Drivers\include\lpc17xx_clkpwr.h
+.\Flash\tone.o: ..\inc\interrupt_priority.h
+.\Flash\tone.o: C:\Keil\ARM\RV31\INC\stdio.h
